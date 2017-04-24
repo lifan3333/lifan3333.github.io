@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "U8K736A3BA.com.k7game.app.lsmj.ent",
-                "paths": [ "*"]
+                "appID": "JUBR29CUPS.com.k7game.app.lsmj.box.ent",
+                "paths": [ "/lsmj/box/*"]
             }
         ]
     }
